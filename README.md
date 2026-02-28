@@ -1,12 +1,12 @@
 <h1>Leonardo Escorse</h1>
 
-<h2>Sobre Mim</h2>
+<h2>About Me</h2>
 <p>
-Estudante de Ciência da Computação, com interesse em desenvolvimento de sistemas e tecnologia.
-Busco aprimorar minhas habilidades práticas através de projetos e aprendizado contínuo.
+Computer Science student with an interest in systems development and technology.
+Seeking to improve my practical skills through projects and continuous learning.
 </p>
 
-<h2>Formação Acadêmica</h2>
+<h2>Education</h2>
 <p>
-Graduação em Ciência da Computação – em andamento
+Bachelor's Degree in Computer Science – In progress
 </p>
