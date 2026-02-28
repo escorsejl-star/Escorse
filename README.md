@@ -10,4 +10,5 @@ Seeking to improve my practical skills through projects and continuous learning.
 <p>
 Bachelor's Degree in Computer Science – In progress
 </p> 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fd043108-a900-4653-9147-4c6e93553a00" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/5f39a6c4-2b47-49b5-a4c4-6b6d59f656c3" />
+
